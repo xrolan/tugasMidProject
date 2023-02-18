@@ -1,0 +1,24 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
+
+.navbar {
+    font-weight: 600;
+}
+
+.navbar .active {
+    font-weight: 700;
+}
+
+.btn-logout {
+    width: 80px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #ffff;
+    color: black;
+    font-weight: 600;
+}
